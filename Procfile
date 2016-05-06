@@ -1,0 +1,1 @@
+web: gunicorn chatbotdjango.wsgi --log-file -
